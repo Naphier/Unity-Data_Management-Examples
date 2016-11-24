@@ -6,8 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Scenes/level1.unity
+    path: Assets/1_PlayerPrefs_Example/playerprefs_example.unity
   - enabled: 1
-    path: Assets/_Scenes/main.unity
+    path: Assets/2_Data_Serialization_Example/data_serialization_example.unity
   - enabled: 1
-    path: Assets/_Scenes/level2.unity
+    path: Assets/2_Data_Serialization_Example/level1.unity
+  - enabled: 1
+    path: Assets/2_Data_Serialization_Example/level2.unity
